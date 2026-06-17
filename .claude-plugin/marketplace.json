@@ -1,0 +1,24 @@
+{
+  "name": "markdownseed",
+  "owner": {
+    "name": "yoonjong12"
+  },
+  "metadata": {
+    "description": "Markdown judgment-injection skill for Claude Code — consistent reports, agent specs, and collaboration docs"
+  },
+  "plugins": [
+    {
+      "name": "markdownseed",
+      "source": "./",
+      "description": "Injects senior technical writer judgment into Claude Code for markdown documents. Three on-demand skills: md-report (decision-first reports), md-spec (agent/system specs), md-collab (async collaboration messages). Loaded only when invoked — no always-on context overhead.",
+      "version": "0.1.0",
+      "author": {
+        "name": "yoonjong12"
+      },
+      "repository": "https://github.com/yoonjong12/markdownseed",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["markdown", "writing", "documentation", "consistency"]
+    }
+  ]
+}

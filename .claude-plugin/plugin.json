@@ -1,0 +1,17 @@
+{
+  "name": "markdownseed",
+  "version": "0.1.0",
+  "description": "Markdown judgment-injection for Claude Code — consistent reports, agent specs, and collaboration docs without always-on context overhead.",
+  "author": {
+    "name": "yoonjong12"
+  },
+  "repository": "https://github.com/yoonjong12/markdownseed",
+  "license": "MIT",
+  "keywords": [
+    "markdown",
+    "writing",
+    "documentation",
+    "consistency",
+    "productivity"
+  ]
+}
