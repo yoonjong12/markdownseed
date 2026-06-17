@@ -1,7 +1,7 @@
 {
   "name": "markdownseed",
-  "version": "0.1.0",
-  "description": "Markdown judgment-injection for Claude Code — consistent reports, agent specs, and collaboration docs without always-on context overhead.",
+  "version": "0.1.1",
+  "description": "Markdown judgment-injection for Claude Code \u2014 consistent reports, agent specs, and collaboration docs without always-on context overhead.",
   "author": {
     "name": "yoonjong12"
   },
