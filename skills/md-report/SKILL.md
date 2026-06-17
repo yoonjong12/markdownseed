@@ -1,6 +1,5 @@
 ---
 name: md-report
-description: "Write a decision-oriented markdown report with consistent structure. Invoke when the user wants to produce a report, analysis, or recommendation document — e.g. 'write a report', 'make a comparison report', '보고서 작성', '분석 보고서 써줘', 'report on X'. Applies senior technical writer judgment: conclusion first, supporting evidence after, section summaries enforced, no raw spec dumps."
 disable-model-invocation: false
 ---
 

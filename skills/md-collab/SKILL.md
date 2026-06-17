@@ -1,6 +1,5 @@
 ---
 name: md-collab
-description: "Write an async collaboration message in markdown — status update, request, review comment, or handoff note. Invoke when the user needs to communicate with a teammate, stakeholder, or another agent in writing — e.g. '팀에 공유할 내용 작성', 'write a status update', 'handoff note 써줘', 'request message 작성', 'review comment 남겨줘'. Applies async communication rules: context first, single ask, deadline required."
 disable-model-invocation: false
 ---
 

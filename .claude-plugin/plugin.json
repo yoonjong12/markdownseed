@@ -1,6 +1,6 @@
 {
   "name": "markdownseed",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Markdown judgment-injection for Claude Code \u2014 consistent reports, agent specs, and collaboration docs without always-on context overhead.",
   "author": {
     "name": "yoonjong12"

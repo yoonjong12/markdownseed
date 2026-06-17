@@ -1,6 +1,5 @@
 ---
 name: md-spec
-description: "Write a precise agent or system specification in markdown. Invoke when the user needs to define behavior for an AI agent, workflow, API contract, or system component — e.g. 'write a spec', 'agent 명세 작성', '시스템 스펙 써줘', 'define this agent', 'spec out the workflow'. Applies strict behavioral definition rules: action-first, no ambiguity, exceptions isolated."
 disable-model-invocation: false
 ---
 
